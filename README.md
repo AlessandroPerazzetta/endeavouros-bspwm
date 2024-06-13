@@ -16,7 +16,7 @@
 
 ## To Install manually
 
-    git clone https://github.com/AlessandroPerazzetta/endeavouros-bspwm/endeavouros-bspwm.git
+    git clone https://github.com/AlessandroPerazzetta/endeavouros-bspwm.git
 
     cd bspwm
 
