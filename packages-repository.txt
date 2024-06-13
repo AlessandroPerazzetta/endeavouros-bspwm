@@ -6,7 +6,6 @@ bspwm
 default-cursors
 dex
 dunst
-endeavouros-xfce4-terminal-colors
 eos-lightdm-slick-theme
 eos-qogir-icons
 eos-skel-ce-bspwm
@@ -45,7 +44,7 @@ xbindkeys
 xclip
 xdg-user-dirs-gtk
 xed
-xfce4-terminal
+kitty
 xorg-xbacklight
 xorg-xdpyinfo
 xorg-xsetroot
