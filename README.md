@@ -18,7 +18,7 @@
 
     git clone https://github.com/AlessandroPerazzetta/endeavouros-bspwm.git
 
-    cd bspwm
+    cd endeavouros-bspwm
 
     bash bspwm-install.sh
    

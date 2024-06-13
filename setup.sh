@@ -8,7 +8,7 @@ else
 fi
 
 git clone https://github.com/AlessandroPerazzetta/endeavouros-bspwm/endeavouros-bspwm.git
-cd bspwm
+cd endeavouros-bspwm
 mkdir -p /home/$NEW_USER/.local/share/fonts
 cp ./fonts/IosevkaTermNerdFontComplete.ttf /home/$NEW_USER/.local/share/fonts/
 cp -R .config /home/$NEW_USER/                                               
@@ -20,4 +20,4 @@ chmod -R +x /home/$NEW_USER/.config/bspwm/
 chmod -R +x /home/$NEW_USER/.config/sxhkd/
 chmod -R +x /home/$NEW_USER/.config/polybar/scripts
 cd ..
-rm -rf bspwm
+rm -rf endeavouros-bspwm
