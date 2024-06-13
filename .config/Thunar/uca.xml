@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1718304898369480-1</unique-id>
+	<command>kitty</command>
+	<description>Open terminal here</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>vscodium</icon>
+	<name>Open codium here</name>
+	<submenu></submenu>
+	<unique-id>1718306099351341-1</unique-id>
+	<command>/usr/bin/codium .</command>
+	<description>Open vscodium here</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+</actions>
