@@ -80,7 +80,8 @@
     - alsa-plugins
     - alsa-firmware
     - glances
-    - neofetch
+    - fastfetch
+    - neovim
     - pulseaudio
     - pavucontrol
     - paprefs
@@ -95,6 +96,7 @@
     - gst-plugins-ugly
     - gst-plugin-pipewire
     - libdvdcss
+    - gparted
     - efibootmgr
     - dosfstools
     - mtools
