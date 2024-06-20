@@ -185,6 +185,7 @@
     - xorg-xsetroot
     - htop
     - hardinfo
+    - kitty
 - name: "Printing-Support"
   description: "Support for printing (Cups)"
   hidden: false
