@@ -38,7 +38,7 @@ https://forum.endeavouros.com/c/desktop-environments/bspwm/75
 - Background handled by nitrogen
 - Gtk3 theme handled by lxappearance-gtk3
 - Filebrowser = Thunar
-- Default Terminal-Emulator = xfce4-terminal
+- Default Terminal-Emulator = kitty
 - Text-Editor = xed
 - Application Launcher = Rofi
 
